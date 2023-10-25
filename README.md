@@ -3,9 +3,11 @@
 
 LinuxCore is a linux distro based off debian. LinuxCore will come with bare esstainals. It will also always be updated to the most stable release. It will also come with applications for your own security/privacy on the internet.
 
-[![Badge License]][License]
-
 
 ```markdown
-[![Button Example]][Link]
+More about LinuxCore..
+
+LinuxCore was orginally gonna be named LinxCore. Until we found out a company product goes by that name. So we changed to have LinuxCore with the U instead.
+
+LinuxCore was first thought of 10/24/2023 and execution to be making LinuxCore soon followed after. The thought of LinuxCore was accidental while making wallpapers. It was gonna be a wallpaper with the andromeda galaxy and the word core in the bottom left corner. But soon after it felt as if something was missing I looked at the filename LinxCore and thats what I added was Linx, and just then I wanted to make my very own Linux Distro. Of course it is now LinuxCore.
 ```

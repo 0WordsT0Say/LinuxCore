@@ -1,5 +1,5 @@
 <div align="center">
-             <img src="Logo/LC.png" />
+             <img src="images/LC.png" />
              <h1>LinuxCore</h1>
 </div>
 

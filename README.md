@@ -16,7 +16,8 @@ LinuxCore is a linux distro based off debian. LinuxCore will come with bare esst
 (3.macOS 11+)
 
 [Image missing]
-                   
+
+<!-- Secret Design only avalible to people who helped develop or is considered a friend of the dev/s. -->
 
 </details>
 

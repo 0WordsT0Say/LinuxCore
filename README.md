@@ -1,6 +1,6 @@
 <div align="center">
              <img src="Logo/Linux_CoreLogo.png" />
-             <h1>LinuxCOre</h1>
+             <h1>LinuxCore</h1>
 </div>
 
 

@@ -6,7 +6,9 @@ LinuxCore is a linux distro based off debian. LinuxCore will come with bare esst
 <details>
 <summary><b>More Information About LinuxCore</b></summary>
 
-LinuxCore Has 3 Main Designs you can choose from... (1.Default) (2.Windows 10) (3.macOS 11+)
+LinuxCore Has 3 Main Designs you can choose from...
+
+(1.Default) (2.Windows 10) (3.macOS 11+)
                             
 LinuxCore was orginally gonna be named LinxCore. Until we found out a company product goes by that name. So we changed to have LinuxCore with the U instead.
                          

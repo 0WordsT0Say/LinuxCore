@@ -1,7 +1,6 @@
 <div align="center">
              ![LC](https://github.com/0WordsT0Say/LinuxCore/assets/92313834/cf1a9925-a24f-4737-81e8-6fd0c97897f3)
 
-             <h1>LinuxCore</h1>
 </div>
 
 

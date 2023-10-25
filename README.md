@@ -1,4 +1,3 @@
-#LinuxCore
 ![LC](https://github.com/0WordsT0Say/LinuxCore/assets/92313834/cf1a9925-a24f-4737-81e8-6fd0c97897f3)
 
 LinuxCore is a linux distro based off debian. LinuxCore will come with bare esstainals. It will also always be updated to the most stable release. It will also come with applications for your own security/privacy on the internet.

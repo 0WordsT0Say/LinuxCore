@@ -1,13 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-export const sendImageMessage = (fileName, mimeType) => {
-  cy.fixture(`pictures/${fileName}`)
-    .then(fileContent => {
-      cy.get('input#image-upload[type=file]')
-        .attachFile(
-          { fileContent, fileName, mimeType, encoding: 'base64' }, // need to explicitly add encoding property here to upload image properly
-          { subjectType: 'input' }
-        )
-    })
-}

@@ -7,6 +7,7 @@ LinuxCore is a linux distro based off debian. LinuxCore will come with bare esst
 <details>
 <summary><b>More Information About LinuxCore</b></summary>
 
+
 More about LinuxCore..
 
 LinuxCore was orginally gonna be named LinxCore. Until we found out a company product goes by that name. So we changed to have LinuxCore with the U instead.

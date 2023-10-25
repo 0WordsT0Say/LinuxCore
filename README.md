@@ -1,6 +1,6 @@
 <div align="center">
-  ![Linux_CoreLogo](https://github.com/0WordsT0Say/LinuxCore/assets/92313834/61eef846-1969-4827-baa1-88d5859b2bd7)
-  
+             <img src="Logo/Linux_CoreLogo.png" />
+             <h1>LinuxCOre</h1>
 </div>
 
 

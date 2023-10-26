@@ -1,4 +1,7 @@
-![LC](https://github.com/0WordsT0Say/LinuxCore/assets/92313834/35c93947-f64b-4803-af85-cda2b7ed4a42)
+<div align="center">
+             <img src="images/LC.png" alt="LinuxCore Logo" width="256" />
+             <h1>LinuxCore</h1>
+</div>
 
 LinuxCore is a linux distro based off debian. LinuxCore will come with bare esstainals. It will also always be updated to the most stable release. It will also come with applications for your own security/privacy on the internet.
 

@@ -1,7 +1,7 @@
 <div align="center">
             <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0WordsT0Say/LinuxCore/blob/df82031799df8b7855efb9b7e91c2a2ddf0d92ed/images/LC.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/0WordsT0Say/LinuxCore/blob/main/images/LC_Light_Mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/0WordsT0Say/LinuxCore/blob/076d8ed1f900e80294c785df98fd2974dda5d622/images/LC_Light_M.png">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
 </picture>
 

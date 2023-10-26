@@ -1,5 +1,10 @@
 <div align="center">
-             <img src="images/LC.png" alt="LinuxCore Logo" width="256" />        
+            <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0WordsT0Say/LinuxCore/blob/df82031799df8b7855efb9b7e91c2a2ddf0d92ed/images/LC.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/0WordsT0Say/LinuxCore/blob/main/images/LC_Light_Mode.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
+</picture>
+
 </div>
 
 LinuxCore is a linux distro based off debian. LinuxCore will come with bare esstainals. It will also always be updated to the most stable release. It will also come with applications for your own security/privacy on the internet.

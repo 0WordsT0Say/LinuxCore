@@ -3,7 +3,8 @@
 LinuxCore is a linux distro based off debian. LinuxCore will come with bare esstainals. It will also always be updated to the most stable release. It will also come with applications for your own security/privacy on the internet.
 
 <details>
-<summary><b>LinuxCore Has 3 Main Designs you can choose from...</b></summary>   
+<summary><b>LinuxCore Has 3 Main Designs you can choose from...</b></summary> <br />
+  
 (1.Default) <br />
 <br />
 [Image missing] <br />

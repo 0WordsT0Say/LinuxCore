@@ -5,7 +5,7 @@ LinuxCore is a linux distro based off debian. LinuxCore will come with bare esst
 <details>
 <summary><b>LinuxCore Has 3 Main Designs you can choose from...</b></summary>   
 (1.Default) <br />
-  
+<br />
 [Image missing] <br />
   
 (2.Windows 10) <br />

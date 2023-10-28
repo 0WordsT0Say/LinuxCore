@@ -20,7 +20,7 @@ LinuxCore is a linux distro based off debian. LinuxCore will come with bare esst
 <br />
 [Image missing] <br />
 
-(3. macOS 11 +) <br />
+(3. macOS 11 Big Sur - macOS 13 Ventura) <br />
 <br />
 [Image missing] <br />
 <br />
